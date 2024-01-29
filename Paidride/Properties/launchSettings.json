@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Periode 4 Leerjaar 3\\F#\\f# ASSEMENT\\fprog-g1-2022-2023-JeroenE2000\\Paidride"
+    }
+  }
+}

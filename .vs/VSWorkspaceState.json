@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\DataAcces",
+    "\\Model",
+    "\\Paidride",
+    "\\Service"
+  ],
+  "SelectedNode": "\\DataAcces\\DepartmentsStore.fs",
+  "PreviewInSolutionExplorer": false
+}

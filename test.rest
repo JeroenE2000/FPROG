@@ -1,0 +1,16 @@
+# -*- restclient -*-
+
+# Get all employees
+GET http://localhost:5000/employee
+
+# Get hours for Jeroen
+GET http://localhost:5000/employee/Jeroen/hours
+
+# Get overtime for Jeroen
+GET http://localhost:5000/employee/Jeroen/overtime
+
+# Register hours for Jeroen
+POST http://localhost:5000/employee/Jeroen/hours
+Content-Type: application/json
+
+{ "date": "2023-05-29", "amount": 10}
