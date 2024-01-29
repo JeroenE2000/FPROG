@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/MGezlMTa)
+
 # Introduction
 
 This repository contains a working web service application for Paidride. Your task is to refactor this application using the functional programming principles discussed during the course. Furthermore, you will implement additional use cases.
